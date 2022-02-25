@@ -1,4 +1,6 @@
-# Hi there, Ahlam 👋 
+ <img alt="header"  src="https://media-exp1.licdn.com/dms/image/C4D16AQHmGOsmTvgUqQ/profile-displaybackgroundimage-shrink_350_1400/0/1645702043115?e=1651104000&v=beta&t=bh7SuqLhCOt_r8RAcA21YNHQVFTuMwJTotRB9yd95Ok"  /> 
+
+# Hi there, I'm Ahlam 👋 
 
 I am a passionate, analytical and hardworking, full stack developer who enjoys solving
 problems.
