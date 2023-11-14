@@ -9,9 +9,9 @@ Being a fast-learner is one of my core skills that I'm proud of.
 
 ### Connect with me:
 <!-- [<img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"/>](https://www.linkedin.com/in/ahlam-aljawahreh/) -->
-[<img align="left" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ahlam-aljawahreh/)
-[<img align="left" alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ahlam.aljawahreh@gmail.com)
-[<img align="left" alt="Website" src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://ahlam-aljawahreh.netlify.app/)
+[<img align="left" alt="Linkedin" target="_blank" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ahlam-aljawahreh/)
+[<img align="left" alt="Email" target="_blank" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ahlam.aljawahreh@gmail.com)
+[<img align="left" alt="Website" target="_blank" src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://ahlam-aljawahreh.netlify.app/)
 
 <br />
 <br />
